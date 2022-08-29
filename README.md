@@ -15,7 +15,7 @@ using IntelliJ IDEA
 2. Choose the project directory and click OK.
 3. run command 'mvn compile' in the terminal to compile the project
 
-# Execution Instructions
+## Execution Instructions
 Run Main.java. After the crawling completed, Number of documents indexed and the size of dictionary will be displayed in the console. And you will be asked to input the query. You are allowed to enter mutiple queries. After each query entered, top 5 results will be shown in the descending order(if the results is less than 5, than all the results related will be shown). Enter "stop" to stop the program.
 
 ## Reference
@@ -24,4 +24,3 @@ http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-java/
 
 ## For Porter Stemm Algorithm realization:
 https://tartarus.org/martin/PorterStemmer/java.txt
-![image](https://user-images.githubusercontent.com/46102603/187230859-227885f5-6720-474f-afd8-29df2a8d54b1.png)
